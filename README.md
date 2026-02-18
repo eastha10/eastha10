@@ -1,8 +1,4 @@
-# 🚀 AI Engineer & Researcher | 김동
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&text=Building%20Intelligence%20with%20Data%20%26%20Algorithms&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
-</p>
+# 🚀 AI Engineer & Researcher | 김동하
 
 ### 🎓 Education
 - **Konkuk University** | Computer Science & Engineering
