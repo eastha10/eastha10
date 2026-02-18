@@ -1,7 +1,7 @@
 # 🚀 AI Engineer & Researcher | 김동하
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=Building%20Intelligence&fontSize=50&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=1a1b27&height=200&section=header&text=Don't%20be%20settle&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=fadeIn&desc=AI%20Engineer%20%7C%20Researcher&descSize=20&descAlign=50&descAlignY=70" width="100%" />
 </p>
 
 ### 🎓 Education
@@ -60,6 +60,8 @@
 
 ### 📫 Contact
 <p align="left">
-  <a href="mailto:kukdh1029@konkuk.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:kukdh1029@konkuk.ac.kr">
+  <img src="https://img.shields.io/badge/kukdh1029@konkuk.ac.kr-00592D?style=flat-square&logo=Googlescholar&logoColor=white">
+</a>
   <a href="https://www.linkedin.com/in/%EB%8F%99%ED%95%98-%EA%B9%80-94936637b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"></a>
 </p>
