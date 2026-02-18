@@ -57,13 +57,11 @@
 
 ---
 
-### 📊 GitHub Analysis & Stats
-
-### 📊 GitHub Analysis & Stats
+### 📊 GitHub Development Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eastha10&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eastha10&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&hide=html,css" height="170" />
 </p>
 
 ---
