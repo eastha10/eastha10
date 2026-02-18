@@ -1,7 +1,7 @@
-# 🚀 AI Engineer & Researcher | [본인 성함]
+# 🚀 AI Engineer & Researcher | 김동
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&text=Building%20Intelligence%20with%20Data%20&%20Algorithms&fontSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&text=Building%20Intelligence%20with%20Data%20%26%20Algorithms&fontSize=22&fontColor=58a6ff&animation=fadeIn" />
 </p>
 
 ### 🎓 Education
@@ -60,8 +60,8 @@
 ### 📊 GitHub Development Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eastha10&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF&count_private=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF&hide=html,css" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eastha10&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&hide=html,css" height="170" />
 </p>
 
 ---
