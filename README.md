@@ -2,7 +2,7 @@
 
 ### 🎓 Education
 * **Konkuk University** | Computer Science & Engineering
-* Focusing on **Deep Learning, RAG, and Quantitative Analysis**
+* Focusing on **Deep Learning, NLP, and Quantitative Analysis**
 
 ---
 
@@ -40,6 +40,10 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh9158kdh" height="150" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Development Stats
 
 <table align="center" width="100%">
   <tr>
