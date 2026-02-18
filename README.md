@@ -57,10 +57,15 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Analysis & Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eastha10&show_icons=true&theme=radical&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=radical" height="180" />
+  <a href="https://github.com/eastha10">
+    <img src="https://github-readme-stats.vercel.app/api?username=eastha10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" />
+  </a>
+  <a href="https://github.com/eastha10">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastha10&layout=compact&theme=tokyonight&hide_border=false" height="180" />
+  </a>
 </p>
 
 ---
