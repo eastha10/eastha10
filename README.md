@@ -17,7 +17,7 @@
 ## About Me
 
 - 🎓 **Konkuk University** — Computer Science & Engineering
-- 🔬 Interested in **Reinforcement Learning, NLP, Model Compression, and Efficient Deep Learning**
+- 🔬 Interested in **Reinforcement Learning, NLP, Model Compression, and Physical AI**
 - 🧩 I enjoy turning research ideas into reproducible experiments and working systems
 - 🌱 Currently studying **policy distillation and compression for real-time robot control**
 
